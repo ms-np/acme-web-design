@@ -10,7 +10,7 @@ write a short description of your project:
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe](wireframe Acme pages.jpg)
+![wireframe](./wireframe_Acme_pages.jpg)
 
 ## 0. Set-Up
 
