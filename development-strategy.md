@@ -13,7 +13,7 @@ The development process is based on implementing each user story on a separate b
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
 
-![wireframe](./wireframe_Acme_pages.jpg)
+![wireframe](./img/wireframe_Acme_pages.jpg)
 
 ## 0. Set-Up
 
@@ -25,22 +25,24 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. ____
+## 1. header
 
-__user story title__
+__As a site visitor, I want to know what the content of the website is__
 
 ### Repo
 
-This user story was developed locally on a brach called `____`
+This user story was developed locally on a brach called `header`
 The new branch was merged locally to master when the feature was finished and pushed to the Github repository.
 
 ### HTML
 
-what did you change in the HTML and why?
+A header element with a Brand logo heading and nav bar
 
 ### CSS
 
-what did you change in the CSS and why?
+Styling the page layout  
+Slyling the layout of the header element and nav element  
+Styling text for the page title and nav tabs
 
 ## 2. ____
 
