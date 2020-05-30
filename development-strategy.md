@@ -119,22 +119,27 @@ A simple footer with copyright text.
 
 Layout styling for the footer.
 
-## 6. ____
+## 6. about page
 
 __user story title__
 
 ### Repo
 
-This user story was developed locally on a brach called `____`  
+This user story was developed locally on a brach called `about`  
 The new branch was merged to `master` when the feature was finished.
 
 ### HTML
 
-what did you change in the HTML and why?
+* The new page title
+* The new nav tab marked as current
+* An article element with headings and descriptions about the company
+* An aside element with heading and description about company's activities
 
 ### CSS
 
-what did you change in the CSS and why?
+* New layout styling for section element with main text
+* New layout styling for article and aside
+* New styling for article paragraph
 
 ## 7. ____
 
