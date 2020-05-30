@@ -63,22 +63,25 @@ Some text introducing visitors to company activities
 Slyling for the element
 Styling for the text of the heading and paragraph
 
-## 3. ____
+## 3. newsletter
 
-__user story title__
+__As a site visitor, I want to receive latest company's news__
 
 ### Repo
 
-This user story was developed locally on a brach called `____`
-The new branch was merged locally to master when the feature was finished and pushed to the Github repository.
+This user story was developed locally on a brach called `newsletter`  
+The new branch was merged to `master` when the feature was finished.
 
 ### HTML
 
-what did you change in the HTML and why?
+A section element with heading  
+A subscription form with input and a button  
 
 ### CSS
 
-what did you change in the CSS and why?
+Styling for the element  
+Styling for the heading text  
+Styling for the form input and form button
 
 ## 4. ____
 
