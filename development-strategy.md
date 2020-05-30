@@ -102,22 +102,22 @@ Styling for the element
 Styling for the images, texts, descriptions  
 Styling for the images
 
-## 5. ____
+## 5. footer
 
 __user story title__
 
 ### Repo
 
-This user story was developed locally on a brach called `____`
-The new branch was merged locally to master when the feature was finished and pushed to the Github repository.
+This user story was developed locally on a brach called `footer`  
+The new branch was merged to `master` when the feature was finished.
 
 ### HTML
 
-what did you change in the HTML and why?
+A simple footer with copyright text.
 
 ### CSS
 
-what did you change in the CSS and why?
+Layout styling for the footer.
 
 ## 6. ____
 
@@ -125,8 +125,8 @@ __user story title__
 
 ### Repo
 
-This user story was developed locally on a brach called `____`
-The new branch was merged locally to master when the feature was finished and pushed to the Github repository.
+This user story was developed locally on a brach called `____`  
+The new branch was merged to `master` when the feature was finished.
 
 ### HTML
 
@@ -142,8 +142,8 @@ __user story title__
 
 ### Repo
 
-This user story was developed locally on a brach called `____`
-The new branch was merged locally to master when the feature was finished and pushed to the Github repository.
+This user story was developed locally on a brach called `____`  
+The new branch was merged to `master` when the feature was finished.
 
 ### HTML
 
