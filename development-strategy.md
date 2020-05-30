@@ -1,10 +1,12 @@
 # Development Strategy
 
-> `Acme-web-design`
+> `Acme-web-design` reproduced by Nadia
 
 write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+
+This project represents a HTML website of a company with responsive mobile-friendly design. 
+
+The development process is based on implementing each user story on a separate branch. The branch shall contain only the user-story related code, and it should work.
 
 ## Wireframe
 
@@ -23,13 +25,14 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. ____
 
-__full user story description__
+__user story title__
 
 ### Repo
 
-what branch(es) did you work on?
+This user story was developed locally on a brach called `____`
+The new branch was merged locally to master when the feature was finished and pushed to the Github repository.
 
 ### HTML
 
@@ -39,11 +42,107 @@ what did you change in the HTML and why?
 
 what did you change in the CSS and why?
 
-## 2. ...
+## 2. ____
 
-...
+__user story title__
 
-...
+### Repo
+
+This user story was developed locally on a brach called `____`
+The new branch was merged locally to master when the feature was finished and pushed to the Github repository.
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+## 3. ____
+
+__user story title__
+
+### Repo
+
+This user story was developed locally on a brach called `____`
+The new branch was merged locally to master when the feature was finished and pushed to the Github repository.
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+## 4. ____
+
+__user story title__
+
+### Repo
+
+This user story was developed locally on a brach called `____`
+The new branch was merged locally to master when the feature was finished and pushed to the Github repository.
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+## 5. ____
+
+__user story title__
+
+### Repo
+
+This user story was developed locally on a brach called `____`
+The new branch was merged locally to master when the feature was finished and pushed to the Github repository.
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+## 6. ____
+
+__user story title__
+
+### Repo
+
+This user story was developed locally on a brach called `____`
+The new branch was merged locally to master when the feature was finished and pushed to the Github repository.
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
+
+## 7. ____
+
+__user story title__
+
+### Repo
+
+This user story was developed locally on a brach called `____`
+The new branch was merged locally to master when the feature was finished and pushed to the Github repository.
+
+### HTML
+
+what did you change in the HTML and why?
+
+### CSS
+
+what did you change in the CSS and why?
 
 ## Finishing Touches
 
