@@ -162,6 +162,24 @@ The new branch was merged to `master` when the feature was finished.
 * Styling for the list items
 * Styling for the quote inputs
 
+## 7. media queries
+
+__As a site visitor, I want to use the company website on multiple devices__
+
+### Repo
+
+This user story was developed locally on a brach called `queries`  
+The new branch was merged to `master` when the feature was finished.
+
+### CSS
+
+* Styling the page layout to adapt to the screen size
+  * Styling element classes
+  * Styling the header
+  * Styling the buttons
+  * Styling the newsletter and quote forms inputs
+
+
 ## Finishing Touches
 
 - Write final, complete README:
