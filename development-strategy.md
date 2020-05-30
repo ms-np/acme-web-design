@@ -83,22 +83,24 @@ Styling for the element
 Styling for the heading text  
 Styling for the form input and form button
 
-## 4. ____
+## 4. company expertise
 
-__user story title__
+__As a site visitor, I want to learn what programming languages and activities the company does__
 
 ### Repo
 
-This user story was developed locally on a brach called `____`
-The new branch was merged locally to master when the feature was finished and pushed to the Github repository.
+This user story was developed locally on a brach called `expertise`  
+The new branch was merged to `master` when the feature was finished.
 
 ### HTML
 
-what did you change in the HTML and why?
+A section element with several images, texts, descriptions
 
 ### CSS
 
-what did you change in the CSS and why?
+Styling for the element  
+Styling for the images, texts, descriptions  
+Styling for the images
 
 ## 5. ____
 
