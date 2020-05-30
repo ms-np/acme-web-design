@@ -141,22 +141,26 @@ The new branch was merged to `master` when the feature was finished.
 * New layout styling for article and aside
 * New styling for article paragraph
 
-## 7. ____
+## 7. services page
 
-__user story title__
+__As a site visitor, I want to read more about company services and get a quote for it__
 
 ### Repo
 
-This user story was developed locally on a brach called `____`  
+This user story was developed locally on a brach called `services`  
 The new branch was merged to `master` when the feature was finished.
 
 ### HTML
 
-what did you change in the HTML and why?
+* The new page title
+* The new nav tab marked as current
+* An article element with list of headings and descriptions about the company services
+* An aside element with quote form
 
 ### CSS
 
-what did you change in the CSS and why?
+* Styling for the list items
+* Styling for the quote inputs
 
 ## Finishing Touches
 
