@@ -19,8 +19,8 @@ ul {
     padding: 0;
     }
 
-    /* General for the Newsletter story*/
-    .button_1{
+  /* General for the Newsletter story*/
+.button_1{
       height:38px;
       background:#e8491d;
       border:0;
@@ -29,7 +29,16 @@ ul {
       color:#ffffff;
     }
 
-    /* Header */
+  /* General from About page story*/
+.dark{
+      padding:15px;
+      background:#35424a;
+      color:#ffffff;
+      margin-top:10px;
+      margin-bottom:10px;
+    }
+
+  /* Header */
 header{
     background:#35424a;
     color:#ffffff;
@@ -137,4 +146,17 @@ footer{
   color:#ffffff;
   background-color:#e8491d;
   text-align: center;
+}
+
+/* Sidebar */
+aside#sidebar{
+  float:right;
+  width:30%;
+  margin-top:10px;
+}
+
+/* Main-column with article */
+article#main-col{
+  float:left;
+  width:65%;
 }
