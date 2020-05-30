@@ -8,7 +8,7 @@ Practical `Code along` exersice on building an HTML5 website with a responsive m
 
 2. Made initial update of [README file](./README.md) 
 
-3. Watched and rewatched the [Traversy Media][tutorial video](https://www.youtube.com/watch?v=Wm6CUkswsNw).
+3. Watched and rewatched the Traversy Media [tutorial video](https://www.youtube.com/watch?v=Wm6CUkswsNw).
 
 4. Created project wireframe with the [wireframe.cc](https://wireframe.cc/)
 
