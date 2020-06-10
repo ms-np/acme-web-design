@@ -91,7 +91,7 @@ header{
   color:#ffffff;
 }
 
-#showcase h1{
+#showcase h2{
   margin-top:100px;
   font-size:55px;
   margin-bottom:10px;
@@ -108,7 +108,7 @@ header{
   background:#35424a
 }
 
-#newsletter h1{
+#newsletter h2{
   float:left;
 }
 
@@ -181,7 +181,7 @@ ul#services li{
   header #branding,
   header nav,
   header nav li,
-  #newsletter h1,
+  #newsletter h2,
   #newsletter form,
   #boxes .box,
   article#main-col,
@@ -195,7 +195,7 @@ ul#services li{
     padding-bottom:20px;
   }
 
-  #showcase h1{
+  #showcase h2{
     margin-top:40px;
   }
 
